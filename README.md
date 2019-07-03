@@ -1,5 +1,5 @@
 # Workshop UX Design
-## Pour les utilisateurs linux
+## Pour les utilisateurs Linux
 ## Installation de PlayOnLinux (consignes en cours)
 
 1. Cliquez sur ce lien <https://www.playonlinux.com/fr/download.html>
@@ -9,7 +9,7 @@ git clone https://github.com/PlayOnLinux/POL-POM-4
 ```
 3. En dessous, "Paquets"
    * cliquez sur **Ubuntu**
-   * choississez votre dépôt (en l'occurrence Xenial sinon tapez les commandes du dépôt correspond)
+   * choississez votre dépôt (en l'occurrence Xenial sinon tapez les commandes du dépôt correspand)
    Pour le dépôt **Xenial**, tapez les commandes suivantes :
 ```
 wget -q "http://deb.playonlinux.com/public.gpg" -O- | sudo apt-key add -
@@ -17,6 +17,11 @@ sudo wget http://deb.playonlinux.com/playonlinux_xenial.list -O /etc/apt/sources
 sudo apt-get update
 sudo apt-get install playonlinux
 ```
+> PlayOnLinux est installé vous devriez avoir cette interface :
+
+[![alt text](/menupol2.png)]
+(https://doc.ubuntu-fr.org/_detail/menupol2.png?id=playonlinux "Title")
+
 **Recherche pour Canonical en cours**
 
 Workshop réalisé par Cassandra Caestecker et encadré par BeCode Charleroi. Ce cours pratique a pour but d'initier les apprenants aux logiciels de créations, de retouche et de prototypage afin de leur faire découvrir l'importance du design dans le domaine du développement web.
