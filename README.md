@@ -7,7 +7,7 @@
 ```
 git clone https://github.com/PlayOnLinux/POL-POM-4
 ```
-3. En dessous, "Paquets"
+3. Revenez sur le site et en dessous de "Paquets" :
    * cliquez sur **Ubuntu**
    * choississez votre dépôt ( en l'occurrence Xenial sinon tapez les commandes du dépôt correspand )
    Pour le dépôt **Xenial**, tapez les commandes suivantes :
