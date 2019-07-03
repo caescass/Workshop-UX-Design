@@ -47,7 +47,7 @@ Download and add the repository key:
 wget -nc https://dl.winehq.org/wine-builds/winehq.key
 sudo apt-key add winehq.key
 ```
-Selon votre version (dans ce cas, Ubuntu 16.04)
+Selon votre version ( dans ce cas, Ubuntu 16.04 )
 
 ```
 sudo apt-add-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ xenial main' 
@@ -60,9 +60,10 @@ sudo apt update
 Sur le site, il vous est demandé d'installer l'un des droits paquets "Then install one of the following packages".
 Personnellement, j'ai choisi celui-ci : 
 
-``
+```
 sudo apt install --install-recommends winehq-stable
 ```
+> Wine est installé, veuillez vérifier via PlayOnLinux
 
 **Recherche pour Canonical en cours**
 
