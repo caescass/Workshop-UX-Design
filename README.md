@@ -17,9 +17,9 @@ sudo wget http://deb.playonlinux.com/playonlinux_xenial.list -O /etc/apt/sources
 sudo apt-get update
 sudo apt-get install playonlinux
 ```
-> PlayOnLinux est installé vous devriez avoir cette interface :
+> PlayOnLinux est installé, voici son interface :
 
-[![alt text](assets/img/menupol2.png)]
+![alt text](assets/img/menupol2.png)
 
 **Recherche pour Canonical en cours**
 
