@@ -3,9 +3,9 @@
 ## Installation de PlayOnLinux (consignes en cours)
 
 1. Cliquez sur ce lien <https://www.playonlinux.com/fr/download.html>
-2. "Version de développement" Clonez le repôt :
+2. "Version de développement" Clonez ce repôt :
 ```
-This too
+git clone https://github.com/PlayOnLinux/POL-POM-4
 ```
 
 
