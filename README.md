@@ -23,7 +23,7 @@ sudo apt-get install playonlinux
 
 ## Installation de Wine
 
-Vérifiez d'abord si il est déjà présent via PlayOnLinux en faisant :
+Vérifiez d'abord si il est déjà présent via PlayOnLinux :
 1. Allez sur PlayOnLinux
 2. Cliquez sur l'onglet "Outils"
 3. Ensuite allez sur "Gérer les versions de Wine"
@@ -32,6 +32,37 @@ Vérifiez d'abord si il est déjà présent via PlayOnLinux en faisant :
 
 ![alt text](assets/img/version_wine.jpg)
 
+Si ce n'est pas le cas :
+
+1. Allez sur le site de <https://www.winehq.org/>
+2. Cliquez sur téléchargement
+3. Dans *WineHQ Binary Packages* sélectionnez **Ubuntu**
+4. Suivez les étapes :
+```
+sudo dpkg --add-architecture i386 
+```
+Download and add the repository key: 
+
+```
+wget -nc https://dl.winehq.org/wine-builds/winehq.key
+sudo apt-key add winehq.key
+```
+Selon votre version (dans ce cas, Ubuntu 16.04)
+
+```
+sudo apt-add-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ xenial main' 
+```
+Update packages:
+
+```
+sudo apt update
+```
+Sur le site, il vous est demandé d'installer l'un des droits paquets "Then install one of the following packages".
+Personnellement, j'ai choisi celui-ci : 
+
+``
+sudo apt install --install-recommends winehq-stable
+```
 
 **Recherche pour Canonical en cours**
 
