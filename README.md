@@ -9,7 +9,7 @@ git clone https://github.com/PlayOnLinux/POL-POM-4
 ```
 3. En dessous, "Paquets"
    * cliquez sur **Ubuntu**
-   * choississez votre dépôt (en l'occurrence Xenial sinon tapez les commandes du dépôt correspand)
+   * choississez votre dépôt ( en l'occurrence Xenial sinon tapez les commandes du dépôt correspand )
    Pour le dépôt **Xenial**, tapez les commandes suivantes :
 ```
 wget -q "http://deb.playonlinux.com/public.gpg" -O- | sudo apt-key add -
@@ -20,6 +20,17 @@ sudo apt-get install playonlinux
 > PlayOnLinux est installé, voici son interface :
 
 ![alt text](assets/img/menupol2.png)
+
+## Installation de Wine
+
+Vérifiez d'abord si il est déjà présent via PlayOnLinux en faisant :
+1. Allez sur PlayOnLinux
+2. Cliquez sur l'onglet "Outils"
+3. Ensuite allez sur "Gérer les versions de Wine"
+
+> Résultat :
+
+![alt text](assets/img/version wine.jpg)
 
 **Recherche pour Canonical en cours**
 
