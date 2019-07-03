@@ -30,7 +30,7 @@ Vérifiez d'abord si il est déjà présent via PlayOnLinux en faisant :
 
 > Résultat :
 
-![alt text](assets/img/version wine.jpg)
+
 
 **Recherche pour Canonical en cours**
 
