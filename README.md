@@ -19,8 +19,7 @@ sudo apt-get install playonlinux
 ```
 > PlayOnLinux est installé vous devriez avoir cette interface :
 
-[![alt text](/menupol2.png)]
-(https://doc.ubuntu-fr.org/_detail/menupol2.png?id=playonlinux "Title")
+[![alt text](assets/img/menupol2.png)]
 
 **Recherche pour Canonical en cours**
 
