@@ -73,6 +73,17 @@ sudo apt install --install-recommends winehq-stable
 
 <img src="assets/img/installer.png" width="700"/>
 
+4. Cliquez sur "Installer un programme non listé"
+5. Cliquez ensuite sur "Suivant"
+6. Cliquez sur "Installer un programme dans un nouveau disque virtuel"
+7. Inscrivez "Photoshop" dans le champs
+8. Cliquez sur "Suivant"
+9. Selon le type de lecteur, choississez entre 32 et 64 bits
+10. Une fenêtre charge et cliquez sur "Parcourir"
+11. Allez dans le dossier "Photoshop_13_LS6"
+   * dossier "Adobe CS6"
+   * Ouvrez le fichier "Set-up.exe"
+   
 **Recherche pour Canonical en cours**
 
 Workshop réalisé par Cassandra Caestecker et encadré par BeCode Charleroi. Ce cours pratique a pour but d'initier les apprenants aux logiciels de créations, de retouche et de prototypage afin de leur faire découvrir l'importance du design dans le domaine du développement web.
