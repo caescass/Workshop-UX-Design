@@ -19,7 +19,7 @@ sudo apt-get install playonlinux
 ```
 > PlayOnLinux est installé, voici son interface :
 
-![alt text](assets/img/menupol2.png)
+<img src="assets/img/menupol2.png" width="700"/>
 
 ## Installation de Wine
 
@@ -71,7 +71,7 @@ sudo apt install --install-recommends winehq-stable
 2. Dans le panel à gauche, cliquez sur "installer un programme"
 3. Vous arrivez dans une nouvelle fenêtre :
 
-![alt text](assets/img/installer.png)
+<img src="assets/img/installer.png" width="700"/>
 
 **Recherche pour Canonical en cours**
 
