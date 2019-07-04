@@ -30,7 +30,7 @@ Vérifiez d'abord si il est déjà présent via PlayOnLinux :
 
 > Résultat :
 
-<img src="assets/img/version_wine.jpg" width="500"/>
+<img src="assets/img/version_wine.jpg" width="700"/>
 
 Si ce n'est pas le cas :
 
