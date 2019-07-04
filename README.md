@@ -71,7 +71,7 @@ sudo apt install --install-recommends winehq-stable
 2. Dans le panel à gauche, cliquez sur "installer un programme"
 3. Vous arrivez dans une nouvelle fenêtre :
 
-![alt text](assets/img/installer.jpg)
+![alt text](assets/img/installer.png)
 
 **Recherche pour Canonical en cours**
 
