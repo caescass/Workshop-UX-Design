@@ -79,6 +79,12 @@ sudo apt install --install-recommends winehq-stable
 7. Allez dans le dossier "Photoshop_13_LS6"
    * dossier "Adobe CS6"
    * Ouvrez le fichier "Set-up.exe"
+7. Laissez Photoshop s'installer
+
+> Vous aurez sûrement un message qui vous préviendra que si il y a un message d'erreur il faudra laisser 5 min à PlayOnLinux de l'installer.
+
+8. Si vous avez ce message, attendez 5 minutes et appuyez sur "Suivant".
+9. PlayOnLinux vous demandera un nom et une icône.
    
 **Recherche pour Canonical en cours**
 
