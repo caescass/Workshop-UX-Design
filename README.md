@@ -73,14 +73,10 @@ sudo apt install --install-recommends winehq-stable
 
 <img src="assets/img/installer.png" width="700"/>
 
-4. Cliquez sur "Installer un programme non listé"
-5. Cliquez ensuite sur "Suivant"
-6. Cliquez sur "Installer un programme dans un nouveau disque virtuel"
-7. Inscrivez "Photoshop" dans le champs
-8. Cliquez sur "Suivant"
-9. Selon le type de lecteur, choississez entre 32 et 64 bits
-10. Une fenêtre charge et cliquez sur "Parcourir"
-11. Allez dans le dossier "Photoshop_13_LS6"
+4. Choississez **graphisme**
+5. Sélectionnez **Adobe Photoshop CS6**
+6. Une fenêtre charge et cliquez sur "Parcourir"
+7. Allez dans le dossier "Photoshop_13_LS6"
    * dossier "Adobe CS6"
    * Ouvrez le fichier "Set-up.exe"
    
