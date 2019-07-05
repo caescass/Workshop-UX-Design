@@ -84,7 +84,9 @@ sudo apt install --install-recommends winehq-stable
 > Vous aurez sûrement un message qui vous préviendra que si il y a un message d'erreur il faudra laisser 5 min à PlayOnLinux de l'installer.
 
 8. Si vous avez ce message, attendez 5 minutes et appuyez sur "Suivant".
-9. PlayOnLinux vous demandera un nom et une icône.
+9. N'oubliez pas de couper internet 
+10. PlayOnLinux vous demandera un nom et une icône.
+11. Faites la même chose pour Illustrator
 
 <img src="assets/img/ps.png" width="700"/>
    
