@@ -65,7 +65,7 @@ sudo apt install --install-recommends winehq-stable
 ```
 > Wine est installé, veuillez vérifier via PlayOnLinux
 
-## Installation de Photoshop CS6
+## Installation de Photoshop et d'Illustrator CS6
 
 1. Allez sur PlayOnLinux
 2. Dans le panel à gauche, cliquez sur "installer un programme"
