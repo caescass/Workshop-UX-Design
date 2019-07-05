@@ -91,6 +91,8 @@ sudo apt install --install-recommends winehq-stable
 
 <img src="assets/img/ps.png" width="700"/>
    
-**Recherche pour Canonical en cours**
+**Recherche pour Canonical en cours** => Fonctionne avec la version Xenial
+
+# Projet UX ( consignes en cours )
 
 
