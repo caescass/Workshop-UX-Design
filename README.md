@@ -1,6 +1,6 @@
 # Workshop UX Design
 ## Pour les utilisateurs Linux
-## Installation de PlayOnLinux (consignes en cours)
+## Installation de PlayOnLinux
 
 1. Cliquez sur ce lien <https://www.playonlinux.com/fr/download.html>
 2. "Version de développement" Clonez ce repôt :
