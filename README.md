@@ -85,6 +85,8 @@ sudo apt install --install-recommends winehq-stable
 
 8. Si vous avez ce message, attendez 5 minutes et appuyez sur "Suivant".
 9. PlayOnLinux vous demandera un nom et une icône.
+
+<img src="assets/img/ps.png" width="700"/>
    
 **Recherche pour Canonical en cours**
 
