@@ -95,4 +95,5 @@ sudo apt install --install-recommends winehq-stable
 
 # Projet UX ( consignes en cours )
 
+<img src="assets/img/image.jpg" width="900"/>
 
