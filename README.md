@@ -296,4 +296,8 @@ sudo apt install --install-recommends winehq-stable
 7. Modifier le dégradé
   * 1er carré (à gauche) : blanc
   * 2e carré (à droite) : e7e2ff
-8. Cliquer sur l'icne "inverser les couleurs du dégradé"
+8. Cliquer sur l'icône "inverser les couleurs du dégradé"
+
+**Création du contenu textuelle**
+> Avant-dernière étape de l'exercice
+1. Télécharger et installer la police Akbrobat
