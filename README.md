@@ -297,7 +297,76 @@ sudo apt install --install-recommends winehq-stable
   * 1er carré (à gauche) : blanc
   * 2e carré (à droite) : e7e2ff
 8. Cliquer sur l'icône "inverser les couleurs du dégradé"
+> Le contenu visuel est terminé
+9. Créer un groupe général pour tous les éléments et le nommer "contenu"
 
 **Création du contenu textuelle**
 > Avant-dernière étape de l'exercice
-1. Télécharger et installer la police Akbrobat
+1. Aller dans le dossier assets/font
+2. Télécharger et installer la police Akrobat
+3. Choisir outil texte
+4. Ecrire un titre : Mountains at night
+  * Akrobat
+  * Extrabold
+  * couleur : 322f3f
+5. Outil rectangle
+6. Créer un petit polygon
+7. La placer sous le mountain
+8. Mettre du texte "lorem"
+  * Taille : 6 pt
+  * Interligne : 12 pt
+  * Couleur claire
+> Le titre et le texte sont créés
+
+1. Créer un bouton
+2. Outil rectangle
+3. Propriété : 100 px -> 25,5 px
+4. Cliquer sur fond -> icône dégradé
+  * Angle : 163 px
+  * Choisir les couleurs du 1er et 2e carré
+5. fx :
+  * Ombre portée
+  * Opacité : 48 px
+  * Angle : 116
+  * Distance : 6 px
+  * Taille : 46 px
+6. Rajouter du texte
+7. Ecrire : Explore et le mettre en blanc
+> Votre bouton est créé
+
+1. Dupliquer le texte "explore"
+2. Modifier sa couleur
+3. Editer le texte en "about"
+4. Dupliquer de nouveau 2 fois
+5. Editer le texte en "products" et en "team"
+6. Sélectionner les calques texte "products" et "team"
+7. Mettre en opacité : 47%
+8. Dupliquer le polygone du bouton
+9. Le modifier et le placer au-dessus du texte "about"
+> Votre navigation est créée
+
+1. Créer un calque vide
+2. Cliquer sur le 4e icone "calque de réglage ou de remplissage"
+3. Sélectionner "courbes..."
+4. Régler la courbe
+
+**L'interface desktop est terminée**
+1. Ficher -> Enregistrer sous...
+2. Renommer le fichier "UI_design_NOM"
+3. Type : 
+  * Png ou JPEG
+ 
+ <img src="assets/img/mockup_imac.png" width="900"/>
+
+**Création du mockup**
+1. Ouvrir le fichier PSD "mockup_imac"
+2. Ouvrir le groupe "replace"
+3. Double-cliquer surle calque "replace"
+4. Un nouvel onglet s'ouvre
+5. Importer votre interface
+6. Enregistrer ou ctrl + S
+> Votre mockup est prêt !
+7. Enregistrer une dernière fois
+
+**Vous venez de créer votre mockup desktop**
+A vous de jouer et d'aller plus loin !
