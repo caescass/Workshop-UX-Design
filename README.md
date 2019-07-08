@@ -97,3 +97,94 @@ sudo apt install --install-recommends winehq-stable
 
 <img src="assets/img/UI Design_exercice.png" width="900"/>
 
+> Voici un aperçu du résultat
+
+## UI_Design en format desktop
+
+**Création du fichier**
+1. Ouvrir Photoshop
+2. Fichier
+  * Nouveau ou Ctrl + n
+3. Une nouvelle fenêtre s'ouvre, choisir un titre "UI Design desktop"
+4. Paramètres prédéfinis
+  * Choisir "web"
+  * Largeur : 1920 px
+  * Longueur : 1080 px
+  * résolution : 300
+> Un calque de base est créé, le renommer "background"
+
+**Préparation du background**
+1. Cliquer sur outil rectangle
+2. Choisir "forme"
+3. Créer 3 carrés
+4. Les placer en haut à gauche
+> Ce qui créera un nouveau calque, il est important de les nommer pour éviter un problème d'organisation
+
+**Création de la forme dégradée**
+1. Cliquer sur outil plume
+2. Recopier la forme ci-dessus
+  * Importer l'image dans Photoshop
+  * Réaliser la forme
+  * Supprimer l'image d'exemple
+> N'oubliez pas de le renommer "gradient"
+
+1. Cliquer sur le calque "background"
+2. Cliquer sur l'outil dégradé
+3. Une nouvelle fenêtre s'ouvre "éditeur de dégradé"
+4. Créer les nouvelles couleurs
+5. Double-cliquer sur un carré de couleur
+  * 7991e4
+  * 857ef5
+  * 5f50c9
+6. Enregistrer le nouveau dégradé
+7. Appliquer le dégradé avec l'outil dégradé
+
+1. Dupliquer le calque "gradient" (ctrl + J)
+2. Retourner sur le 1er calque "gradient"
+3. Le sélectionner à l'aide de l'outil rectangle
+4. Lui appliquer la couleur 857ef5
+5. Sélectionner le 2e calque "gradient (gradient 2)
+  * Le déplacer vers la gauche
+6. Sélectionner "gradient"
+  * Outil rectangle pour sélectionner le tracé
+  * Choisir flèche blanche pour le tracé
+  * Modifier les courbes à l'aide des curseurs
+7. Sélectionner les deux calques "gradient" et "gradient 2"
+  * Flèche blanche
+  * Modifier une nouvelles fois les courbes
+
+**Création des montagnes**
+1. Outil rectangle
+2. Choisir polygone
+  * Une nouvelle fenêtre s'ouvre "créer un polygone"
+  * Largeur : 100 px
+  * Longueur : 100 px
+  * Nombre de côtés : 3
+3. Onglet "édition"
+  * Transformation du tracé
+  * Rotation
+  * -90°
+4. Agrandir le triangle
+5. Sélectionner la forme avec l'outil rectangle
+6. Cliquer sur fond (en haut à gauche)
+  * Choisir dégradé
+  * Couleur du 1er carré (le plus clair)
+> Le premier triangle est créé
+
+1. Créer un 2e triangle pour l'ombre
+2. Choisir l'outil plume (de base) 
+3. Partir de la pointe du 1er triangle
+> N'oubliez pas de nommer ce calque "ombre", le deuxième triangle est créé
+
+1. Dupliquer le 1er triangle
+2. Le descendre et le placer au milieu (plus ou moins)
+3. Double-cliquer sur la vignette
+4. Une nouvelle fenêtre "fond en dégradé"
+  * Cliquer sur dégradé
+  * Changer le carré blanc par la couleur de l'ombre (outil pipette)
+  * Angle : -90*
+5. Modifier l'opacité à 37%
+> Troisième triangle créé
+6. Le duppliquer
+7. Le descendre plus bas que le précédent
+
