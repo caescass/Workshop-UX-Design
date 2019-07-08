@@ -1,4 +1,4 @@
-# Workshop UX Design
+# Workshop UX / UI Design
 ## Pour les utilisateurs Linux
 ## Installation de PlayOnLinux
 
@@ -93,6 +93,7 @@ sudo apt install --install-recommends winehq-stable
    
 **Recherche pour Canonical en cours** => Fonctionne avec la version Xenial
 
-# Projet UX ( consignes en cours )
+# Projet UX/UI ( consignes en cours )
 
+<img src="assets/img/image.jpeg" width="900"/>
 
