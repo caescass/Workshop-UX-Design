@@ -189,3 +189,111 @@ sudo apt install --install-recommends winehq-stable
 6. Le duppliquer
 7. Le descendre plus bas que le précédent
 
+1. Sélectionner tous les éléments "triangle" avec "majuscule + clique gauche"
+2. Créer un groupe
+3. Renommer "montagne"
+> Votre première montagne est créée
+
+1. Dupliquer le groupe (ctrl + J)
+2. Redimensionner en plus petit (ctrl + t)
+3. Placer la 2e montagne sur la droite
+4. Cliquer sur fx (en bas à droite)
+5. Choisir "ombre portée"
+  * Opacité : 64%
+  * Angle : 50
+  * Distance : 87
+  * Taille : 92
+> Vous venez de créer une deuxième montagne avec une ombre portée
+
+1. Dupliquer la 2e montagne et la placer sur la gauche
+2. Cliquer sur fx
+  * Opacité : 64
+  * Angle : 122
+  * Distance : 85
+> Troisième montagne
+3. Dupliquer une nouvelle fois la 3e montagne
+4. fx :
+  * Opacité : 100
+  * Angle : 122
+  * Distance : 0
+  * Taille : 152
+> Quatrième montagne
+
+**Petite modification du background**
+1. Sélectionner le calque "background"
+2. Choisir outil de dégradé
+3. Editeur de dégradé
+4. Modifier le carré bleu (à gauche)
+  * Double-cliquer
+  * Nouvelle couleur : 5270d9
+5. Modifier avec l'outil dégradé
+
+**Création de nuages**
+1. Outil rectangle arrondis
+2. Créer la forme du nuage
+3. Propriétés
+  * Mettre 50 au lieu de 10px
+4. Placer le calque "nuage" en-dessous du calque "gradient" **important**
+5. Opacité : 25%
+6. Dupliquer le calque "nuage"
+7. Les modifier à votre guise
+8. Créer un groupe et le nommer "nuages"
+
+**Modification sur la 1er montagne**
+1. fx :
+  * Ombre portée
+  * Taille à 177 px
+> N'oubliez pas de faire ctrl + S assez souvent pour éviter des surprises
+
+**Création d'étoiles**
+1. Outil rectangle -> cercle
+2. fx :
+  * Lueur externe
+  * Mode de fusion : normal
+  * Opacité : 60%
+  * Taille : 21 px
+  * Etendue : 11%
+3. Dupliquer votre étoile
+4. Les disperser
+5. Changer la taille sur quelques-unes
+6. Créer un groupe et le nommer "étoiles"
+
+**Création de la lune**
+1. Outil rectangle -> cercle
+2. Choisir flèche blanche
+3. Modifier la lune à l'aide des curseurs
+4. fx :
+  * Lueur externe
+  * Taille : 139 px
+
+**Création d'étoiles filantes**
+1. Outil rectangle arrondis
+2. Comme les nuages mais en plus fin (comme un trait)
+3. Cliquer sur fond
+  * Cliquer sur l'icône du dégradé
+  * Modifier le dégradé
+4. Le dupliquer plusieurs fois
+5. Modifier la taille sur quelques-unes
+6. Créer un groupe et le nommer "étoiles filantes"
+
+**Modification sur le calque gradient**
+1. Cliquer sur le calque "gradient"
+2. fx :
+  * Ombre portée
+  * Opacité : 100
+  * Angle : 107
+  * Distance : 55
+  * Taille : 177 px
+> Votre calque "gradient" a une ombre portée
+
+**Modification sur le calque gradient2**
+1. Sélectionner le calque "gradient 2"
+2. Le dupliquer
+3. Le placer sur le coin à gauche
+4. Outil rectangle pour sélectionner le tracé
+5. Cliquer sur le fond
+6. Choisir l'icône dégradé
+7. Modifier le dégradé
+  * 1er carré (à gauche) : blanc
+  * 2e carré (à droite) : e7e2ff
+8. Cliquer sur l'icne "inverser les couleurs du dégradé"
