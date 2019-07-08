@@ -300,7 +300,7 @@ sudo apt install --install-recommends winehq-stable
 > Le contenu visuel est terminé
 9. Créer un groupe général pour tous les éléments et le nommer "contenu"
 
-**Création du contenu textuelle**
+**Création du contenu textuel**
 > Avant-dernière étape de l'exercice
 1. Aller dans le dossier assets/font
 2. Télécharger et installer la police Akrobat
