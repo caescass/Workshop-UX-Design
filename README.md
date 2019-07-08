@@ -93,7 +93,7 @@ sudo apt install --install-recommends winehq-stable
    
 **Recherche pour Canonical en cours** => Fonctionne avec la version Xenial
 
-# Projet UX/UI ( consignes en cours )
+# Les consignes du projet UX/UI design
 
-<img src="assets/img/image.jpeg" width="900"/>
+<img src="assets/img/UI Design_exercice.png" width="900"/>
 
