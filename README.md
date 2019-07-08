@@ -351,12 +351,10 @@ sudo apt install --install-recommends winehq-stable
 4. Régler la courbe
 
 **L'interface desktop est terminée**
-1. Ficher -> Enregistrer sous...
+1. Fichier -> Enregistrer sous...
 2. Renommer le fichier "UI_design_NOM"
 3. Type : 
   * Png ou JPEG
- 
- <img src="assets/img/mockup_imac.png" width="900"/>
 
 **Création du mockup**
 1. Ouvrir le fichier PSD "mockup_imac"
@@ -368,5 +366,8 @@ sudo apt install --install-recommends winehq-stable
 > Votre mockup est prêt !
 7. Enregistrer une dernière fois
 
+<img src="assets/img/mockup_imac.png" width="900"/>
+
 **Vous venez de créer votre mockup desktop**
+
 A vous de jouer et d'aller plus loin !
