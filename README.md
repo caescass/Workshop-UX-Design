@@ -121,6 +121,7 @@ sudo apt install --install-recommends winehq-stable
 > Ce qui créera un nouveau calque, il est important de les nommer pour éviter un problème d'organisation
 
 **Création de la forme dégradée**
+<img src="assets/img/forme.png" width="700"/>
 1. Cliquer sur outil plume
 2. Recopier la forme ci-dessus
   * Importer l'image dans Photoshop
