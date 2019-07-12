@@ -33,4 +33,4 @@ Définition en cours
 
 A vous de jouer et d'aller plus loin !
 
-<img src="assets/img/tenor.gif" width="900"/>
+<img src="assets/img/tenor.gif" width="500"/>
