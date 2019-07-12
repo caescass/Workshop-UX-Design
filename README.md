@@ -32,3 +32,5 @@ Définition en cours
 **Vous venez de créer votre mockup desktop**
 
 A vous de jouer et d'aller plus loin !
+
+<img src="assets/img/tenor.gif" width="900"/>
