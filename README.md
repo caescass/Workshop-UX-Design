@@ -1,7 +1,5 @@
 # Workshop UX / UI Design
 
-# UX / UI Design
-
 Définition en cours
 
 ## Initiation
