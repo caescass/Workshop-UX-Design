@@ -1,4 +1,4 @@
-#Installation
+# Installation
 
 ## Pour les utilisateurs Linux
 ## Installation de PlayOnLinux
@@ -67,6 +67,8 @@ sudo apt install --install-recommends winehq-stable
 > Wine est installé, veuillez vérifier via PlayOnLinux
 
 ## Installation de Photoshop et d'Illustrator CS6
+
+>Il est dorénavant possible de travailler avec Photoshop CC2018 et CC2019
 
 1. Allez sur PlayOnLinux
 2. Dans le panel à gauche, cliquez sur "installer un programme"
