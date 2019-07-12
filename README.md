@@ -23,25 +23,9 @@ Définition en cours
 11. [Groupe : texte](texte.md)
 12. [Création du mockup](mockup.md)
 
-# Les consignes du projet UX/UI design
-
 <img src="assets/img/UI Design_exercice.png" width="900"/>
 
 > Voici un aperçu du résultat
-
-## UI_Design en format desktop
-
-**Création du fichier**
-1. Ouvrir Photoshop
-2. Fichier
-  * Nouveau ou Ctrl + n
-3. Une nouvelle fenêtre s'ouvre, choisir un titre "UI Design desktop"
-4. Paramètres prédéfinis
-  * Choisir "web"
-  * Largeur : 1920 px
-  * Longueur : 1080 px
-  * résolution : 300
-> Un calque de base est créé, le renommer "background"
 
 **Préparation du background**
 1. Cliquer sur outil rectangle
