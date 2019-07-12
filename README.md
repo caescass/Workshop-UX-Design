@@ -1,5 +1,12 @@
 # Workshop UX / UI Design
 
+## UX / UI Design
+
+Définition en cours
+
+### Initiation
+
+1. [Installation](installation.md)
 # Les consignes du projet UX/UI design
 
 <img src="assets/img/UI Design_exercice.png" width="900"/>
