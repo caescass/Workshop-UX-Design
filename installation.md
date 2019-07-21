@@ -86,12 +86,14 @@ sudo apt install --install-recommends winehq-stable
 
 > Vous aurez sûrement un message qui vous préviendra que si il y a un message d'erreur il faudra laisser 5 min à PlayOnLinux de l'installer.
 
-8. Si vous avez ce message, attendez 5 minutes et appuyez sur "Suivant".
+8. Si vous avez ce message, attendez 5 minutes et appuyez sur "Suivant"
+
+> Il est important de toujours continuer le processus même s'il y a des messages d'erreurs
+
 9. N'oubliez pas de couper internet
 10. Cliquez sur "Essayer" (C'est très important)
 11. Choississez la version d'évaluation
 12. Faites la même chose pour Illustrator
 
 <img src="assets/img/ps.png" width="700"/>
-   
-**Recherche pour Canonical en cours** => Fonctionne avec la version Xenial
+  
