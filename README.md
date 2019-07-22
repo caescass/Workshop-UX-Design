@@ -1,5 +1,12 @@
 # Qu'est-ce que l'UX/UI Design ?
 
+La première chose que vous devez savoir : 
+
+> *You don't have to be born with it*
+
+Eh oui, le design ça s'apprend et il consiste à résoudre des problème. C'est un processus de recherche constante de problèmes et de créations de solutions. Bah comme le développement web.. :smirk:
+
+
 **UX ou User Experience** consiste à concevoir une interface accessible et facile à prendre en main pour tout type de support. C'est l'analyse des souhaits du client. A partir de là, on conçoit l'architecture du site ou de l'application ainsi que les différentes fonctionnalités de l'interface. Vous pouvez considérer que l'Ux est la face cachée de l'iceberg (comme le back-end en développement web) tandis que l'UI en est la partie visible (frontend).
 
 **UI ou User Interface** consiste à concevoir une interface agréable aussi bien visuellement que manuellement. En gros, toute la créativité est mise en oeuvre (le choix des couleurs, des fonts, du logo, ...) pour réaliser la maquette graphique correspondant aux souhaits du client.
